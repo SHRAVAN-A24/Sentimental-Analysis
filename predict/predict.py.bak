@@ -1,0 +1,14 @@
+import sys
+
+
+t = sys.argv[1]
+
+y = t.replace('_',' ')
+
+print(y)
+
+
+
+
+
+
